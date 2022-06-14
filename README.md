@@ -1,6 +1,6 @@
 # WiFi Scan
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=wifiscan.visitor-badge"></a>
 </p>
 Project Kampus Menggunakan NodeMCU V3
 
