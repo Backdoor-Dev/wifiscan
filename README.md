@@ -4,4 +4,4 @@
 </p>
 Project Kampus Menggunakan NodeMCU V3
 
-### Nama :<br>1.Rizky Sandiary<br>2.Karel Chavez
+### Nama :<br>1.Rizky Sandiary (1922014)<br>2.Karel Chavez (1922017)
